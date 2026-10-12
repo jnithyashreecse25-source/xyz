@@ -1,0 +1,7 @@
+{"timestamp":2527201,"category":"tab","name":"interaction","extra":{"layout":"horizontal","tab_count":"1","action":"activate","source":"tab_strip","glean_timestamp":"1791792895342"}}
+{"timestamp":2537850,"category":"tab","name":"interaction","extra":{"tab_count":"1","source":"tab_strip","layout":"horizontal","glean_timestamp":"1791792905991","action":"activate"}}
+{"timestamp":2598338,"category":"tab","name":"interaction","extra":{"action":"activate","glean_timestamp":"1791792966479","source":"tab_strip","layout":"horizontal","tab_count":"1"}}
+{"timestamp":2677398,"category":"tab","name":"interaction","extra":{"action":"activate","glean_timestamp":"1791793045539","source":"tab_strip","layout":"horizontal","tab_count":"1"}}
+{"timestamp":2678735,"category":"tab","name":"interaction","extra":{"action":"activate","source":"tab_strip","tab_count":"1","glean_timestamp":"1791793046876","layout":"horizontal"}}
+{"timestamp":2824245,"category":"tab","name":"interaction","extra":{"layout":"horizontal","source":"tab_strip","tab_count":"1","action":"activate","glean_timestamp":"1791793192385"}}
+{"timestamp":3151168,"category":"tab","name":"interaction","extra":{"glean_timestamp":"1791793519309","layout":"horizontal","source":"tab_strip","action":"activate","tab_count":"1"}}

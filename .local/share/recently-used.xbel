@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/a3_068/Pictures/Screenshots/Screenshot%20from%202026-10-05%2013-38-21.png" added="2026-10-05T08:08:26.271261Z" modified="2026-10-05T08:08:26.271265Z" visited="2026-10-05T08:08:26.271262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-10-05T08:08:26.271263Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Pictures/Screenshots/Screenshot%20from%202026-10-05%2013-39-26.png" added="2026-10-05T08:09:26.991407Z" modified="2026-10-05T08:09:28.559593Z" visited="2026-10-05T08:09:26.991408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-10-05T08:09:26.991408Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-10-05T08:09:28.559592Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Pictures/Screenshots/Screenshot%20from%202026-10-05%2013-40-17.png" added="2026-10-05T08:10:17.355434Z" modified="2026-10-05T08:10:19.647797Z" visited="2026-10-05T08:10:17.355435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-10-05T08:10:17.355435Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-10-05T08:10:19.647796Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Pictures/Screenshots/Screenshot%20from%202026-10-05%2014-42-29.png" added="2026-10-05T09:12:29.419284Z" modified="2026-10-05T09:12:31.056916Z" visited="2026-10-05T09:12:29.419284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-10-05T09:12:29.419284Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-10-05T09:12:31.056915Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Pictures/Screenshots/Screenshot%20from%202026-10-05%2014-51-15.png" added="2026-10-05T09:21:15.359194Z" modified="2026-10-05T09:21:16.681482Z" visited="2026-10-05T09:21:15.359194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-10-05T09:21:15.359195Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-10-05T09:21:16.681479Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Pictures/Screenshots/Screenshot%20from%202026-10-05%2014-52-29.png" added="2026-10-05T09:22:29.804250Z" modified="2026-10-05T09:22:31.419796Z" visited="2026-10-05T09:22:29.804251Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-10-05T09:22:29.804251Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-10-05T09:22:31.419794Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Pictures/Screenshots/Screenshot%20from%202026-10-05%2015-02-20.png" added="2026-10-05T09:32:20.483923Z" modified="2026-10-05T09:32:21.762630Z" visited="2026-10-05T09:32:20.483924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-10-05T09:32:20.483924Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-10-05T09:32:21.762629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Pictures/Screenshots/Screenshot%20from%202026-10-12%2013-19-21.png" added="2026-10-12T07:49:21.638101Z" modified="2026-10-12T07:49:24.382757Z" visited="2026-10-12T07:49:21.638101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-10-12T07:49:21.638101Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-10-12T07:49:24.382756Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Desktop/git_print" added="2026-10-12T07:50:16.986615Z" modified="2026-10-12T07:50:16.986625Z" visited="2026-10-12T07:50:16.986616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2026-10-12T07:50:16.986620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/a3_068/Desktop/git_print.odt" added="2026-10-12T07:50:17.685364Z" modified="2026-10-12T07:50:17.685373Z" visited="2026-10-12T07:50:17.685364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2026-10-12T07:50:17.685372Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
